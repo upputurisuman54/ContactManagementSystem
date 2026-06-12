@@ -14,6 +14,10 @@ Export Csv file page:
 
 ![CSv File](https://github.com/upputurisuman54/ContactManagementSystem/blob/main/Screenshot%202026-06-12%20210535.png?raw=true)
 
+Profile Page:
+
+![Page](https://github.com/upputurisuman54/ContactManagementSystem/blob/main/Screenshot%202026-06-12%20210447.png?raw=true)
+
 Tags Page:
 
 ![Page](https://github.com/upputurisuman54/ContactManagementSystem/blob/main/Screenshot%202026-06-12%20210509.png?raw=true)
