@@ -1,0 +1,106 @@
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+  padding: 20px;
+}
+
+.modal-box {
+  background: #fff;
+  border-radius: 14px;
+  padding: 32px;
+  width: 100%;
+  max-width: 460px;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.15);
+}
+
+.modal-box h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.modal-box form {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+}
+
+.modal-box input[type="text"],
+.modal-box input[type="email"] {
+  padding: 10px 14px;
+  border: 1.5px solid #e2e8f0;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.modal-box input:focus { border-color: #4f6ef7; }
+
+.checkbox-label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.9rem;
+  color: #4a5568;
+  cursor: pointer;
+}
+
+.modal-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 8px;
+}
+
+.modal-error {
+  color: #c53030;
+  font-size: 0.875rem;
+  margin-bottom: 12px;
+}
+
+.tag-create-row {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.tag-create-row input {
+  flex: 1;
+  padding: 10px 14px;
+  border: 1.5px solid #e2e8f0;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  outline: none;
+}
+
+.tag-create-row input:focus { border-color: #4f6ef7; }
+
+.tag-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 14px 0;
+  max-height: 260px;
+  overflow-y: auto;
+}
+
+.tag-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 0;
+  border-bottom: 1px solid #f0f4f8;
+}
+
+.empty-tags {
+  color: #a0aec0;
+  font-size: 0.9rem;
+  text-align: center;
+  padding: 20px 0;
+}
