@@ -6,6 +6,10 @@ Add Contact Page:
 
 ![page](https://github.com/upputurisuman54/ContactManagementSystem/blob/main/Screenshot%202026-06-12%20210622.png?raw=true)
 
+Activity Page:
+
+![page](https://github.com/upputurisuman54/ContactManagementSystem/blob/main/Screenshot%202026-06-12%20210412.png?raw=true)
+
 Import CSV page:
 
 ![Page](https://github.com/upputurisuman54/ContactManagementSystem/blob/main/Screenshot%202026-06-12%20210559.png?raw=true)
