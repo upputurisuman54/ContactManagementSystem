@@ -184,4 +184,8 @@ John Doe,john@example.com,+91 9999999999,Acme Corp,false,friend
 Upputuri Suman
 - Gmail: upputurisuman53@gmail.com
 - GitHub: https://github.com/upputurisuman54
-- LinkedIn: www.linkedin.com/in/upputuri-suman-a0730726b
+- LinkedIn: www.linkedin.com/in/upputurisuman
+
+
+
+
