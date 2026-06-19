@@ -20,7 +20,7 @@ A full-stack contact management web application built with Spring Boot, React, a
 
 | Profile Page | Tags Page |
 |--------------|-----------|
-| ![Profile](https://github.com/upputurisuman54/ContactManagementSystem/blob/main/Screenshot%202026-06-12%20210447.png?raw=true) | ![Tags](https://github.com/upputurisuman54/ContactManagementSystem/blob/main/Screenshot%202026-06-12%20210509.png?raw=true) |
+| ![Profile](https://github.com/upputurisuman54/ContactManagementSystem/blob/main/screenshots/profile-page.png?raw=true) | ![Tags](https://github.com/upputurisuman54/ContactManagementSystem/blob/main/Screenshot%202026-06-12%20210509.png?raw=true) |
 
 | Register | Sign In |
 |----------|---------|
