@@ -16,7 +16,7 @@ A full-stack contact management web application built with Spring Boot, React, a
 
 | Import CSV | Export CSV |
 |------------|------------|
-| ![Import CSV](https://github.com/upputurisuman54/ContactManagementSystem/blob/main/Screenshot%202026-06-12%20210559.png?raw=true) | ![Export CSV](https://github.com/upputurisuman54/ContactManagementSystem/blob/main/screenshots/export-csv.png?raw=true) |
+| ![Import CSV](https://github.com/upputurisuman54/ContactManagementSystem/blob/main/screenshots/import-csv.png?raw=true) | ![Export CSV](https://github.com/upputurisuman54/ContactManagementSystem/blob/main/screenshots/export-csv.png?raw=true) |
 
 | Profile Page | Tags Page |
 |--------------|-----------|
